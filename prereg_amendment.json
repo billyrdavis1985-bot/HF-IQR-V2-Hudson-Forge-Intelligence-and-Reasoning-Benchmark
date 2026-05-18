@@ -1,0 +1,31 @@
+{
+  "title": "HF-IQR V2 Pre-registration Amendment",
+  "original_prereg_timestamp": "2026-05-08T23:56:24Z",
+  "amendment_timestamp": "2026-05-17T19:34:18Z",
+  "researcher": "Billy Davis | WARRIOROFGOD40",
+  "deviations": [
+    {
+      "item": "Subject models",
+      "pre_registered": 6,
+      "actual": 5,
+      "excluded_model": "llama3-70b",
+      "reason": "llama3-70b was accessible via local NGROK infrastructure but API integration with the council run protocol was not completed before data collection began. Decision made to proceed with 5 frontier API models rather than delay the study.",
+      "impact": "Findings are limited to the five frontier models that completed all five rounds. llama3-70b comparisons are not possible from this dataset."
+    },
+    {
+      "item": "ESVR scoring",
+      "pre_registered": "LLM-as-judge per step scoring",
+      "actual": "Abandoned after validation failure",
+      "reason": "Inter-rater correlation r=0.238 to r=0.470 between local jury models indicated insufficient reliability for primary endpoint reporting.",
+      "impact": "ESVR is reported as a methodological finding not a primary metric. IQS composite score adjusted accordingly."
+    },
+    {
+      "item": "DSS formula",
+      "pre_registered": "Combined DSS = PS*0.30 + RQR*0.40 + CR*0.30",
+      "actual": "PS and CR reported as independent metrics",
+      "reason": "Peer review identified circular dependency in combining correctness with deliberation stability. RQR proxy using correctness reduces component independence.",
+      "impact": "Position Stability and Correctness Rate reported separately. Relationship between them is itself a finding."
+    }
+  ],
+  "status": "AMENDMENT FILED \u2014 data collection already complete at time of filing"
+}
