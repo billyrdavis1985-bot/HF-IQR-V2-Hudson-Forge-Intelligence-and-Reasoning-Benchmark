@@ -1,5 +1,7 @@
 # HF-IQR V2: Hudson Forge Intelligence and Reasoning Benchmark — Version 2
 
+<img width="1536" height="1024" alt="IQR V2 image" src="https://github.com/user-attachments/assets/1154adc5-55a6-46b9-8436-84383713f789" />
+
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-HF--IQR%20V2-blue)](https://huggingface.co/datasets/Billyrdavis1985/hudson-forge-iqr-v2)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](https://opensource.org/licenses/Apache-2.0)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WPLi12xinKeaYFZCtNJ1RMe5-vZqpIQD)
