@@ -5,7 +5,7 @@
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-HF--IQR%20V2-blue)](https://huggingface.co/datasets/Billyrdavis1985/hudson-forge-iqr-v2)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](https://opensource.org/licenses/Apache-2.0)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WPLi12xinKeaYFZCtNJ1RMe5-vZqpIQD)
-[![Pre-registered](https://img.shields.io/badge/Pre--registered-2026--05--08-orange)]()
+[![Pre-registered](https://img.shields.io/badge/Pre--registered-2026--05--08-orange)](https://huggingface.co/datasets/Billyrdavis1985/hudson-forge-iqr-v2)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![Responses](https://img.shields.io/badge/Responses-5137-purple)]()
 
