@@ -1,5 +1,11 @@
 # HF-IQR V2: Hudson Forge Intelligence and Reasoning Benchmark — Version 2
 
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-HF--IQR%20V2-blue)](https://huggingface.co/datasets/Billyrdavis1985/hudson-forge-iqr-v2)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green)](https://opensource.org/licenses/Apache-2.0)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
+[![Pre-registered](https://img.shields.io/badge/Pre--registered-2026--05--08-orange)]()
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
+[![Responses](https://img.shields.io/badge/Responses-5137-purple)]()
 **Researcher:** Billy Davis | Independent Researcher | Lenoir, NC
 **Version:** 2.0 | **Date:** May 2026
 **License:** Apache 2.0
