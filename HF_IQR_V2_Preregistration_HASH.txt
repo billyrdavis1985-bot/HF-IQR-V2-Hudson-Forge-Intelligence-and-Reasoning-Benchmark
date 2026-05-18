@@ -1,0 +1,6 @@
+HF-IQR V2 Pre-registration Hash
+
+Hash: d5c693601d590503154d1689cdd025bba797a9b649efb45fed4b564189871854
+Timestamp: 2026-05-08T23:56:24Z
+Researcher: Billy Davis
+Status: FILED — no V2 data collected before this timestamp
