@@ -228,33 +228,21 @@ Note: The two highest scores came from models that were subjects of the study. T
 | Total API cost | ~$35 |
 
 ---
-
 ## Repository Structure
-HF_IQR/
-├── council_run_v2/
-│   ├── round1_all_responses.json
-│   ├── round2_all_responses.json
-│   ├── round3_all_responses.json
-│   ├── round4_all_responses.json
-│   ├── round5_all_responses.json
-│   ├── dss_reframed.json
-│   ├── cvs_all_scores.json
-│   ├── shannon_efficiency.json
-│   ├── dss_correctness.json
-│   ├── round5_trace_analysis.json
-│   ├── prereg_amendment.json
-│   ├── meta_council_critique.json
-│   └── meta_council_advancement.json
-└── v2_planning/
-└── dataset/
-└── HF_IQR_Master_Dataset_v2.json
-GitHub Repository Files:
-├── HF_IQR_V2_Council_Run.ipynb
-├── HF_IQR_Phase0_V2_Prep.ipynb
-├── HF_IQR_V2_Dataset_Builder.ipynb
-├── HF_IQR_V2_Preregistration_HASH.txt
-├── prereg_amendment.json
-└── human_baseline.json
+
+**Data files** are hosted on HuggingFace:
+https://huggingface.co/datasets/Billyrdavis1985/hudson-forge-iqr-v2
+
+**GitHub repository contains:**
+
+| File | Description |
+|------|-------------|
+| HF_IQR_V2_Council_Run.ipynb | Main council run notebook |
+| HF_IQR_Phase0_V2_Prep.ipynb | Phase 0 and human baseline |
+| HF_IQR_V2_Dataset_Builder.ipynb | Dataset construction |
+| HF_IQR_V2_Preregistration_HASH.txt | Integrity hash |
+| prereg_amendment.json | Protocol deviations |
+| human_baseline.json | 20 human baseline responses |
 
 ---
 
