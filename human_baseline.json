@@ -1,0 +1,109 @@
+{
+  "researcher": "Billy Davis",
+  "date_completed": "2026-05-10",
+  "total_questions": 20,
+  "accuracy": 0.5625,
+  "trap_detection_rate": 1.0,
+  "responses": [
+    {
+      "id": "LSQ-03",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "PRQ-04",
+      "correct": false,
+      "trap_detected": true
+    },
+    {
+      "id": "FRQ-02",
+      "correct": false,
+      "trap_detected": true
+    },
+    {
+      "id": "FRQ-09",
+      "correct": "partial",
+      "trap_detected": true
+    },
+    {
+      "id": "CCQ-03",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "CCQ-09",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "ADV-02",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "ADV-08",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "PRQ-02",
+      "correct": false,
+      "trap_detected": false
+    },
+    {
+      "id": "PRQ-07",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "QRQ-01",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "QRQ-05",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "FRQ-03",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "FRQ-07",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "CCQ-05",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "LSQ-07",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "LSQ-09",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "CCQ-08",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "LSQ-03-pilot",
+      "correct": true,
+      "trap_detected": true
+    },
+    {
+      "id": "PRQ-04-pilot",
+      "correct": false,
+      "trap_detected": false
+    }
+  ]
+}
