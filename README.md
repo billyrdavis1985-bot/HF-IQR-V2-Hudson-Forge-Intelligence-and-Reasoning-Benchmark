@@ -248,7 +248,13 @@ HF_IQR/
 └── v2_planning/
 └── dataset/
 └── HF_IQR_Master_Dataset_v2.json
-| human_baseline.json | 20 human baseline responses with accuracy and trap detection rates
+GitHub Repository Files:
+├── HF_IQR_V2_Council_Run.ipynb
+├── HF_IQR_Phase0_V2_Prep.ipynb
+├── HF_IQR_V2_Dataset_Builder.ipynb
+├── HF_IQR_V2_Preregistration_HASH.txt
+├── prereg_amendment.json
+└── human_baseline.json
 
 ---
 
