@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-05-21T20:41:53Z",
+  "note": "Additional statistical tests computed after peer review feedback",
+  "ps_cr_correlation": {
+    "pearson_r": -0.7066,
+    "n_models": 5,
+    "interpretation": "Negative correlation \u2014 models that defend more tend to be less correct"
+  },
+  "ps_anova": {
+    "f_stat": 23.9829,
+    "df_between": 4,
+    "df_within": 466,
+    "significant": true
+  },
+  "cr_anova": {
+    "f_stat": 2.0278,
+    "df_between": 4,
+    "df_within": 466,
+    "significant": false
+  },
+  "round5_trigger_chisquare": {
+    "chi2": 230.8285,
+    "p_value": 0.0,
+    "df": 16,
+    "significant": true,
+    "interpretation": "Trigger distributions differ significantly across models"
+  }
+}
